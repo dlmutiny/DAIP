@@ -9,3 +9,5 @@ I'm developing a method for indexing the number of surfers in the water at a sur
 2. Better accuracy for wave conditions at the time for the measurement.
 
 3. Improve surfer detection. 
+
+4. Develop an interface so users can easly access data.  
