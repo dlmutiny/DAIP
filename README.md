@@ -14,4 +14,6 @@ I'm developing a method for indexing the number of surfers in the water at a des
 
 5. Add more surf spots. Earlier the better. The more yearly data I have the more accurate my prediction model becomes.
 
-6. Develop an interface so users can easly access data. Right now you will find a CSV file containing a date and time next year with a predicted Crowd Index Level. 
+6. Competition tracker. Account for days that have surf comps.
+
+7. Develop an interface so users can easly access data. Right now you will find a CSV file containing a date and time next year with a predicted Crowd Index Level. 
