@@ -1,5 +1,5 @@
 # DAIP
-Domain Array Index Prediction through Image Recognition uses Computer Vision and Machine Learning to predict the future Array of a Domain.
+Domain Array Index Prediction through Image Recognition is a meathod for predicting the future Array of a Domain.
 
 I'm developing a method for indexing the number of surfers in the water at a surf spot at a designated time. With the recorded data, predictions can be made on crowed levels on future time and dates.
 
