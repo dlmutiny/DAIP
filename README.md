@@ -4,7 +4,7 @@ Domain Array Index Prediction is a meathod for predicting the future Array of a 
 I'm developing a method for indexing the number of surfers in the water at a designated time. With the recorded data, predictions can be made on crowed levels on future time and date.
 
 # Ongoing Development Plans
-1. Currently testing proof of concept with Malibu Overview, Pleasure Point and Cowells Overview. Will be running tests mainly on Cowells. Will plan on adding more locations for permanent data set recording.
+1. Currently testing proof of concept with Malibu, Pleasure Point Cowells, Huntington North and South. Will plan on adding more locations for permanent data set recording.
 
 2. Better accuracy for wave conditions at the time for the measurement.
 
