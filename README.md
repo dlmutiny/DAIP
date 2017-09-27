@@ -8,6 +8,6 @@ I'm developing a method for indexing the number of surfers in the water at a des
 
 2. Better accuracy for wave conditions at the time for the measurement.
 
-3. ~~Improve surfer detection and counting.~~   DONE
+3. ~~Improve surfer detection.~~   DONE
 
 4. Develop an interface so users can easly access data.  
