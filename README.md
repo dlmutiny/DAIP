@@ -1,7 +1,7 @@
 # DAIP
 Domain Array Index Prediction through Image Recognition is a meathod for predicting the future Array of a Domain.
 
-I'm developing a method for indexing the number of surfers in the water at a surf spot at a designated time. With the recorded data, predictions can be made on crowed levels on future time and dates.
+I'm developing a method for indexing the number of surfers in the water at a designated time. With the recorded data, predictions can be made on crowed levels on future time and date.
 
 # Ongoing Development Plans
 1. Currently testing proof of concept with Malibu Overview, Pleasure Point and Cowells Overview. Will be running tests mainly on Cowells. Will plan on adding more locations for permanent data set recording.
